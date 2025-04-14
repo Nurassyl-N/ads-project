@@ -8,6 +8,7 @@ public class main {
         // =======================================
         MyList<Integer> list = new MyArrayList<>();
 
+
         // Добавление элементов
         list.add(10);
         list.add(20);
